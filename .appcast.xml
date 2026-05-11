@@ -17,5 +17,8 @@
     <item>
       <enclosure url="https://github.com/transifex/transifex-sketch-plugin/releases/download/v1.0.3/transifex-sketch.sketchplugin.zip" sparkle:version="1.0.3"/>
     </item>
+    <item>
+      <enclosure url="https://github.com/transifex/transifex-sketch-plugin/releases/download/v1.0.4/transifex-sketch.sketchplugin.zip" sparkle:version="1.0.4"/>
+    </item>
   </channel>
 </rss>
